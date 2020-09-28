@@ -1,0 +1,10 @@
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\obj\Debug\GetCustomKeyIdentifier.csprojAssemblyReference.cache
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\obj\Debug\GetCustomKeyIdentifier.Properties.Resources.resources
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\obj\Debug\GetCustomKeyIdentifier.csproj.GenerateResource.cache
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\obj\Debug\GetCustomKeyIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\bin\Debug\GetCustomKeyIdentifier.exe.config
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\bin\Debug\GetCustomKeyIdentifier.exe
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\bin\Debug\GetCustomKeyIdentifier.pdb
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\obj\Debug\GetCustomKeyIdentifier.exe
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\obj\Debug\GetCustomKeyIdentifier.pdb
+C:\Users\jeedes\source\repos\GetCustomKeyIdentifier\GetCustomKeyIdentifier\obj\Debug\GetCustomKeyIdentifier.GenerateCustomKeyIdentifier.resources
